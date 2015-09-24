@@ -1,0 +1,6 @@
+{
+  "name": "TCS proxy",
+  "description": "Forward proxy to TCS hub",
+  "repository": "https://github.com/aldoforce/tcs-force-proxy-demo",
+  "keywords": ["sinatra", "ruby"]
+}
